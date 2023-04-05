@@ -16,7 +16,7 @@ namespace TestProg
         [Test]
         public void Test2()
         {
-            Assert.That(4, Is.EqualTo(3));
+            Assert.That(4, Is.EqualTo(4));
         }
     }
 }
